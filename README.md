@@ -43,7 +43,7 @@ in load_data.py points to the directory that contains your document(s).
 
 * Ensure Ollama is running
 * Run `python load_data.py`. This may take a couple of minutes
-* Run 'python rag_server.py'
+* Run `python rag_server.py`
 
 ## Enhancements
 
